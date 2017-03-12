@@ -1,5 +1,8 @@
 _repo: Essays-and-Lectures_774
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wilde, Oscar
@@ -14,6 +17,8 @@ creator:
 description: 'Indhold: The rise of historical criticism ; The English renaissance
   of art ; House decoration ; Art and the handicraftsman ; Lecture to art students
   ; London models ; Poems in prose'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/774#Essays-and-Lectures
 gutenberg_issued: '1997-01-01'
 gutenberg_type: Text
 identifiers:
